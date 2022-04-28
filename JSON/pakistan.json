@@ -1,0 +1,66 @@
+{       
+  "country": "pakistan",
+  "country_code": "+92",
+  "no_of_provances": "4",
+  "provances": [
+    {
+      "name": "punjab",
+      "languages": ["punjabi", "urdu"],
+      "cities": [
+        {
+          "name": "Rawalpindi",
+          "zip_code": "051"
+        },
+        {
+          "name": "Lahore",
+          "zip_code": "041"
+        }
+      ]
+    },
+
+    {
+      "name": "Sindh",
+      "languages": ["sindhi"],
+      "cities": [
+        {
+          "name": "Karachi",
+          "zip_code": "088"
+        },
+        {
+          "name": "Hydrabad",
+          "zip_code": "094"
+        }
+      ]
+    },
+    {
+      "name": "KPK",
+      "languages": ["Pashto", "urdu", "Hindko"],
+      "cities": [
+        {
+          "name": "Pshawar",
+          "zip_code": "063"
+        },
+
+        {
+          "name": "Mardaan",
+          "zip_code": "071"
+        }
+      ]
+    },
+    {
+      "name": "Balochistan",
+      "languages": ["Balochi"],
+      "cities": [
+        {
+          "name": "Chamman",
+          "zip_code": "010"
+        },
+
+        {
+          "name": "Dera Bugti",
+          "zip_code": "014"
+        }
+      ]
+    }
+  ]
+}
